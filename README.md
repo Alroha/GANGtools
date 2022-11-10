@@ -1,2 +1,5 @@
-# GANGtools
-This is a multitool made by me 100%
+Download python
+
+Run Installer.bat
+
+Run start.bat
